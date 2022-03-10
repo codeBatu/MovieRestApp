@@ -183,6 +183,7 @@ namespace MovieRestApp.Repository
             throw new NotImplementedException();
         }
 
+<<<<<<< HEAD
         public Task<MovieInfo> SaveAsync(MovieInfo entity)
         {
             throw new NotImplementedException();
@@ -237,5 +238,8 @@ namespace MovieRestApp.Repository
         {
             throw new NotImplementedException();
         }
+=======
+       
+>>>>>>> 342fc99c2b3b3985dc14eba9438059f60282ec86
     }
 }

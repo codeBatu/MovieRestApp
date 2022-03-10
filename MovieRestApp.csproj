@@ -11,7 +11,11 @@
 
   <ItemGroup>
     <Reference Include="Util.ExceptionLibrary">
+<<<<<<< HEAD
       <HintPath>..\ExceptionLibrary\bin\Release\net5.0\Util.ExceptionLibrary.dll</HintPath>
+=======
+      <HintPath>..\UtilExceptionLibrary\bin\Release\net5.0\Util.ExceptionLibrary.dll</HintPath>
+>>>>>>> 342fc99c2b3b3985dc14eba9438059f60282ec86
     </Reference>
   </ItemGroup>
 
